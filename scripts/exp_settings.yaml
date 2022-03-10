@@ -1,0 +1,10 @@
+# My configuration settings for ChIP-Seq analysis in maize.
+
+# may need to change each project
+
+BT2INDEX: '/scratch/cgsb/coruzzi/jh6577/GenomeFile/maizeV4/bowtie2_index/bt2_zmv4_index'
+
+REFGENOME: '/scratch/cgsb/coruzzi/jh6577/GenomeFile/maizeV4/Zea_mays.AGPv4.dna.toplevel.fa'
+
+LENGTH_CUT: '20'
+
